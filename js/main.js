@@ -16,7 +16,10 @@ menuToggler.addEventListener('click', function () {
 // Function: Close menu when clicking an element
 navLinks.forEach((navLink) => {
   navLink.addEventListener('click', function() {
-    body.classList.toggle('open');
+      // Check if menu is open
+    if (document.body.classList.contains('open')) {
+      body.classList.toggle('open');
+    } 
   });
 });
 
