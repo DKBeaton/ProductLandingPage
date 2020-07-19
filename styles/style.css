@@ -308,6 +308,10 @@ a.logo {
   margin-top: 3rem;
 }
 
+iframe {
+  border: 0;
+}
+
 .headline-dark {
   color: var(--main-font-color-dark);
   text-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
