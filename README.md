@@ -8,4 +8,3 @@ Repository of Samsung landing page for freeCodeCamp.
 - Live version: https://codepen.io/DKBeaton/pen/vYLEWvP
   - Doesn't contain Scrollreveal
   - Video element don't display correctly
-
